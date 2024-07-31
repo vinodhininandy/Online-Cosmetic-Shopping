@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+}
+
+nav ul {
+  list-style: none;
+  float: none;
+  display: block;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  padding: 14px;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ccc;  
+}
